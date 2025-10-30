@@ -126,3 +126,4 @@ python homework.ipynb  # or run in Jupyter/Colab
 4. Try lemmatization if tools become available
 
 **Repository:** [https://github.com/egeundenis/ceng442-assignment1-azerNLP](https://github.com/egeundenis/ceng442-assignment1-azerNLP)
+**Embeddings:** [https://drive.google.com/drive/folders/1ODGQiZYe_If-WKpNiR19-TfTpg56aI26?usp=sharing](https://drive.google.com/drive/folders/1ODGQiZYe_If-WKpNiR19-TfTpg56aI26?usp=sharing)
