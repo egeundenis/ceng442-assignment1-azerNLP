@@ -105,7 +105,7 @@ We applied Azerbaijani-aware lowercasing (İ→i, I→ı), replaced URLs/emails/
 
 **Run:**
 ```bash
-git clone https://github.com/<org>/ceng442-assignment1-<group>
+git clone https://github.com/egeundenis/ceng442-assignment1-azerNLP
 pip install -r requirements.txt
 # Place datasets in sample_data/
 python homework.ipynb  # or run in Jupyter/Colab
@@ -126,4 +126,5 @@ python homework.ipynb  # or run in Jupyter/Colab
 4. Try lemmatization if tools become available
 
 **Repository:** [https://github.com/egeundenis/ceng442-assignment1-azerNLP](https://github.com/egeundenis/ceng442-assignment1-azerNLP)
+
 **Embeddings:** [https://drive.google.com/drive/folders/1ODGQiZYe_If-WKpNiR19-TfTpg56aI26?usp=sharing](https://drive.google.com/drive/folders/1ODGQiZYe_If-WKpNiR19-TfTpg56aI26?usp=sharing)
