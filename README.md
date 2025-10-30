@@ -120,10 +120,10 @@ python homework.ipynb  # or run in Jupyter/Colab
 **Why?** Low syn/ant separation (0.02) due to limited data (~124k sentences) and high domain diversity. FastText's character n-grams capture morphology (yaxşı→yaxşıca) but dilute semantic signal.
 
 **Next steps:**
-1. Expand corpus to ~10M sentences
-2. Test sentiment-specific training objectives
-3. Parameter tuning — experiment with vector_size=200, min_count=5, window=3 and update results
-4. Try lemmatization if tools become available
+1. We can expand corpus to ~10M sentences
+2. We can test sentiment-specific training objectives
+3. We can do parameter tuning — experiment with vector_size=200, min_count=5, window=3 and update results
+4. We can try lemmatization if tools become available
 
 **Repository:** [https://github.com/egeundenis/ceng442-assignment1-azerNLP](https://github.com/egeundenis/ceng442-assignment1-azerNLP)
 
